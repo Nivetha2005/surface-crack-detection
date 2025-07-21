@@ -20,7 +20,7 @@ This project focuses on detecting surface cracks in concrete using deep learning
 
 ## 📁 Files
 - `Surface_Crack_Detection.ipynb` – Jupyter Notebook with code
-- `Surface_Crack_Detection_LAB.pdf` – Full project report with explanation
+- `Surface_Crack_Detection_Report.pdf` – Full project report with explanation
 
 ## 👩‍💻 Team
 - Nivetha T
